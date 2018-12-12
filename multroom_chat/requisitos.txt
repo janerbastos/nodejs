@@ -1,0 +1,23 @@
+1.) Criar um diretório da aplicação
+2.) Inicializar o npm
+3.) Baixar dependencias
+    3.1) express
+    3.2) ejs
+    3.3) consign
+    3.4) body-parser
+    3.5) express-validator
+4.) Estrutura de diretórios
+    node_modules
+        -contem a lista de dependencias instaladas
+    config/
+        server.js
+    app/
+        controllers/
+        models/
+        public/
+            css/
+            images/
+            js/
+        routes/
+        views/
+    app.js
