@@ -8,7 +8,7 @@
     3.5) express-validator
 4.) Estrutura de diretórios
     node_modules
-        -contem a lista de dependencias instaladas
+        /*contem a lista de dependencias instaladas*/
     config/
         server.js
     app/
